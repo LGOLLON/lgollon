@@ -2,12 +2,20 @@
     background-color:red;
 }
 
-.skill{
+.skills{
     background-color:goldenrod;
 }
 .projects{
-    background-color:blue;
+    background-color:lightblue;
+    
 }
 .contact{
     background-color:darkgreen;
+}
+div{
+  text-align:center;
+  border-radius:5%;
+}
+.affinity{
+  background-color:lightblue;
 }
