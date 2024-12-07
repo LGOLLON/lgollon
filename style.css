@@ -28,7 +28,6 @@ img{
 .selfie{
     height:200px;
     width:200px;
-    border-color:blue;
+    border: 5px solid blue;
     border-radius:5%;
-    border-width:5px;
 }
