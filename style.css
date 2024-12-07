@@ -24,3 +24,10 @@ img{
     height:100px;
     width:100px;
 }
+
+.selfie{
+    height:200px;
+    width:200px;
+    border-color:blue;
+    border-radius:5%;
+}
